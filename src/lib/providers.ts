@@ -1,7 +1,7 @@
 
 
 export class GogoAnime {
-    base: string = "https://api.consumet.org/anime/gogoanime";
+    base: string = "https://webdis-8amq.onrender.com";
     base_2: string = "https://webdis-8amq.onrender.com"
     base_3: string = "https://api.consumet.org/anime/enime";
 
